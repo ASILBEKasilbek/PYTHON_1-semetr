@@ -1,0 +1,35 @@
+# Python fayllari
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env
+
+# MySQL va SQLite bazalari
+*.sqlite3
+*.db
+
+# Pytest
+.cache
+*.egg-info/
+dist/
+build/
+
+# IDE fayllari
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Maxfiy ma'lumotlar
+.env
+
+# Log fayllari
+*.log
