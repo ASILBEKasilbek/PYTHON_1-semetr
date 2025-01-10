@@ -1,0 +1,1 @@
+print(*[i for i in range(100,1000) if 5<i%10+i%100//10+i//100<8])
